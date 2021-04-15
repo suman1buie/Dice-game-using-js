@@ -1,0 +1,73 @@
+*,
+html {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bolder;
+}
+h4 {
+  font-family: "Dancing Script", cursive;
+}
+body {
+  text-align: center;
+  background-color: #364547;
+}
+img {
+  background-color: red;
+  color: bisque;
+}
+#heading {
+  padding: 7% 15%;
+  color: #91c788;
+}
+.row {
+  color: #91c788;
+}
+.flg1,
+.flg2 {
+  width: 15%;
+}
+.image-f {
+  text-align: left;
+}
+.image-r {
+  text-align: right;
+}
+
+.dice-pic1,
+.dice-pic2,
+.dice-pic3,
+.dice-pic4,
+.dice-pic5,
+.dice-pic6 {
+  width: 40%;
+  position: absolute;
+  left: 90px;
+}
+
+.dice2-pic1,
+.dice2-pic2,
+.dice2-pic3,
+.dice2-pic4,
+.dice2-pic5,
+.dice2-pic6 {
+  width: 40%;
+  position: absolute;
+  left: 90px;
+}
+
+#players {
+  padding: 5% 2%;
+}
+
+.diceImage {
+  position: relative;
+}
